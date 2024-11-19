@@ -16,7 +16,7 @@
 
 🎓 Digital Development Student at ISMONTIC  <br>
 💻 Passionate about coding, problem-solving, and creating digital experiences  <br>
-🌍 Based in Morocco  <br>
+🌍 Based in Morocco, Tangier  <br>
 
 ## 🚀 Skills  
 - Programming: *Python, JavaScript, GDscript* 
@@ -26,4 +26,4 @@
 ## 🌟 Projects  
 - [Ma Bibliothéque](Link): I worked on my first project at ISMONTIC with an amazing team, creating a Library Management System (front-end) to streamline book and user management using Bootstrap, HTML and CSS.
 
-📫 Reach me at: [Your Email]  
+📫 Reach me at: <a href="mailto:elkhamlichim099@gmail.com">MY EMAIL</a>
