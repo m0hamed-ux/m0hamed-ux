@@ -12,7 +12,7 @@
 </div>
 
 
-# Hi, I'm **Mohamed Elkahmlichi**👋  
+# Hi, I'm **Mohamed El Khamlichi**👋  
 
 🎓 Digital Development Student at ISMONTIC  <br>
 💻 Passionate about coding, problem-solving, and creating digital experiences  <br>
