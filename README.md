@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohamed El Khamlichi and I'm from Morocco</p>
+<p align="left">My name is <b>Mohamed El Khamlichi</b>b> and I'm from Morocco</p>
 
 ###
 
