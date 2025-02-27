@@ -46,11 +46,8 @@ const mohamed = {
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/m0hamed-ux/project-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m0hamed-ux&repo=project-name-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/m0hamed-ux/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m0hamed-ux&repo=project-name-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/m0hamed-ux/MaBibliotheque">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m0hamed-ux&repo=MaBibliotheque&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
