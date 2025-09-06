@@ -1,18 +1,30 @@
-# 👋 Hi, I'm Mohamed  
+# 👋 Hi, I'm Mohamed
 
-💻 **Digital Development Student @ ISMONTIC**  
-🚀 Passionate about building useful apps, websites, and tools  
-🌱 Currently learning **Full-Stack Development** & experimenting with **AI integrations**  
-
----
-
-## 🔧 Tech Stack  
-- **Languages:** JavaScript, PHP, Python, SQL  
-- **Frontend:** React, Bootstrap, Tailwind CSS, EJS  
-- **Backend:** Node.js, Express.js, PHP  
-- **Databases:** MySQL, Supabase  
-- **Tools & Platforms:** Git, Render, n8n, Docker  
+💻 **Senior Digital Developer & Problem Solver**  
+🚀 Building scalable apps, websites, and automation tools with modern tech  
+🌱 Specializing in **Full-Stack Development**, **AI integrations**, and workflow optimization  
 
 ---
 
-⭐️ If you like my work, consider giving a star to my projects!  
+## 🔧 Tech Expertise
+
+- **Languages:** JavaScript (ES6+), PHP, Python, SQL  
+- **Frontend:** React, NextJS, Tailwind CSS, Bootstrap, EJS
+- **Backend:** Node.js, Express.js, PHP, API design & integration  
+- **Databases:** MySQL, Supabase, PostgreSQL  
+- **Tools & Platforms:** Git & GitHub, Docker, Render, n8n, CI/CD pipelines, cloud deployment  
+
+---
+
+## 🌟 What I Do
+
+- Design and implement robust, high-performance web apps  
+- Automate workflows and integrate AI solutions for real-world problems  
+- Mentor peers and contribute to open-source projects  
+- Continuously explore emerging technologies to stay ahead of the curve  
+
+---
+
+## 📈 Connect & Support
+
+If you find my work valuable, **star ⭐ my projects**, follow my GitHub, or reach out to collaborate on innovative solutions!
